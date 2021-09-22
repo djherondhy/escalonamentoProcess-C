@@ -3,7 +3,7 @@
 ##	:desktop_computer: Aplicação de Algoritimos de Escalonamento de Processos em C 
 
 >:gear: Desenvolvedores
-* Djhérondhy Felipe Bezerra Pinheiro
+* Djhérondhy Felipe Bezerra Pinheiro (Líder)
 * João Victor
 * Lucas Pinheiro
 >:briefcase: Professor
